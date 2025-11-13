@@ -5,3 +5,5 @@ añadida prueba 1
 añadido desde casa
 
 ## Contenido adicional
+
+Cambios realizados en rama2
